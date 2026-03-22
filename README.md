@@ -1,4 +1,4 @@
-# 🦊 GitLab Local Deployment with Docker Compose & Traefik
+# 🦊 GitLab Deployment with Docker Compose & Traefik
 
 This repository provides a ready-to-use setup for deploying **GitLab CE** locally using Docker Compose, exposed securely through **Traefik** with HTTPS.
 
